@@ -1,6 +1,6 @@
 # Content Based Filtering for Book Recommendation System
 
-This repository contains the code and documentation for a Hybrid Recommendation System developed as part of a group project for NUS Computing school module called Mining Web Data for Business Insights. The project integrates multiple recommendation approaches to enhance the accuracy and relevance of recommendations. My main contribution to this project is conducting the Exploratory Data Analysis (EDA) and developing the Content-Based Filtering (CBF) component within the final hybrid model.
+This repository contains the code and documentation for a Hybrid Recommendation System developed as part of a group project for NUS Computing school module called Mining Web Data for Business Insights. The project integrates multiple recommendation approaches to enhance the accuracy and relevance of book recommendations. We are mainly using the dataset from Kaggle (https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset) and data scraped from Goodreads. My main contribution to this project is conducting the Exploratory Data Analysis (EDA) and developing the Content-Based Filtering (CBF) component within the final hybrid model.
 
 Files in the Repository
 
